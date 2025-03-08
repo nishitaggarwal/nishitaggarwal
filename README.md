@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nishitaggarwal&theme=radical&border_radius=9.5&card_width=520&fire=A134EB)](https://git.io/streak-stats)
-<!--
-**nishitaggarwal/nishitaggarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub Streak](https://streak-stats.demolab.com?user=nishitaggarwal&theme=radical&border_radius=9.5&card_width=520)](https://git.io/streak-stats)
 
 Here are some ideas to get you started:
 
